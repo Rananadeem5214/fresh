@@ -44,7 +44,8 @@ br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Buil
 
 def exit():
 
-	print "[!] Exit"	os.sys.exit()
+	print "[!] Exit"	
+	os.sys.exit()
 
 def acak(b):
 
